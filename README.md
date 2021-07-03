@@ -1,3 +1,3 @@
 # Shibance Assets
 
-Permalinks for Shibance Assets
+Permalinks for Shibance assets
